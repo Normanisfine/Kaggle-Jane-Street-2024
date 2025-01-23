@@ -1,1 +1,0 @@
-Kaggle-2024 is our solution to this competition.
